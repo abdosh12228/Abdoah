@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>قلبين - منصة التعارف</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>قلبين</h1>
+    <p>لأن كل قلب يحتاج نصفه الآخر</p>
+  </header>
+
+  <section class="welcome">
+    <h2>مرحباً بك في قلبين</h2>
+    <p>منصتك للعثور على شريك الحياة بطريقة راقية وآمنة. ابدأ رحلتك معنا الآن!</p>
+    <div class="buttons">
+      <a href="#" class="btn">سجّل الآن</a>
+      <a href="#" class="btn">تسجيل دخول</a>
+    </div>
+  </section>
+
+  <section class="members">
+    <h2>بعض الأعضاء الجدد</h2>
+    <div class="card">
+      <h3>سارة، 28</h3>
+      <p>من الرياض، تحب القراءة والسفر.</p>
+    </div>
+    <div class="card">
+      <h3>خالد، 32</h3>
+      <p>من جدة، يبحث عن شريكة تشاركه الاهتمامات.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 قلبين. جميع الحقوق محفوظة.</p>
+  </footer>
+</body>
+</html>
